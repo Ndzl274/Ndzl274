@@ -10,7 +10,6 @@ I'm a incoming third-year Electrical and Electronic Engineering (EEE) undergradu
 
 ---
 ### 🛠️ Languages and Tools:
-*(You can add icons here for your tech stack)*
 - **Hardware Description:** Verilog, VHDL
 - **EDA Software:** Cadence Virtuoso, LTspice, Synopsys Design Compiler, Pegasus
 - **Other:** C, Python
